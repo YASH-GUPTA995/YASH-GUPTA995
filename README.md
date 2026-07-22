@@ -221,7 +221,7 @@ Top-10 Personalized Recommendations
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH-GUPTA995&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=YASH-GUPTA995&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -251,7 +251,12 @@ Top-10 Personalized Recommendations
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<!--
+  IMPORTANT: This image will only show YOUR snake once you set up the
+  GitHub Action below in a repo you own (e.g. YASH-GUPTA995/YASH-GUPTA995,
+  your profile repo). Until then, replace YOUR_REPO below with that repo name.
+-->
+<img src="https://raw.githubusercontent.com/YASH-GUPTA995/YASH-GUPTA995/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
